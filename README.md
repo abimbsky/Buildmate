@@ -1,6 +1,6 @@
 git init
 git add .
-git commit -m "First version of BuildMate"
+git commit -m "Initial launch"
 git branch -M main
-git remote add origin YOUR_GITHUB_LINK_HERE
-git push -u origin main# Buildmate
+git remote add origin https://github.com/YOUR_USERNAME/buildmate-pro-demo.git
+git push -u origin main
